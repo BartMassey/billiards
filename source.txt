@@ -26,7 +26,7 @@ A ball is a kind of thing. A ball has a color. A ball has a number called the ma
 
 Section - Specific Balls
 
-The one-ball is a red ball. The mark is 1.
+The one-ball is a red ball. The mark is 1. The indefinite article is "a".
 
 The two-ball is a blue ball. The mark is 2.
 

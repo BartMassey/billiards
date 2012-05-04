@@ -4,7 +4,7 @@
 
 [Released under the Creative Commons Attribution 3.0 United States (CC BY 3.0) license. See http://creativecommons.org/licenses/by/3.0/us/ for license details.]
 
-Release along with an interpreter and the library card.
+Release along with the source text, an interpreter and the library card.
 
 The story headline is "An example".
 

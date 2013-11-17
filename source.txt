@@ -22,7 +22,7 @@ Chapter - Billiard Balls
 
 A color is a kind of value. The colors are red, white, blue, and green.
 
-A ball is a kind of thing. A ball has a color. A ball has a number called the mark. A ball has a truth state called sunkenness. The description of it is usually "This [item described] is painted [color of the item described][if the mark of the item described is greater than 0], and labeled with a [mark of the item described] in a white circle[end if]." Sunkenness is usually false.
+A ball is a kind of thing. A ball has a color. A ball has a number called the mark. A ball can be sunken. It is usually not sunken. The description of it is usually "This [item described] is painted [color of the item described][if mark of the item described is greater than 0], and labeled with a [mark of the item described] in a white circle[end if]."
 
 Section - Specific Balls
 
@@ -32,7 +32,7 @@ The two-ball is a blue ball. The mark is 2.
 
 The three-ball is a green ball. The mark is 3.
 
-The cue ball is a white ball. The mark is 0.
+The cue ball is a white ball. Understand "cue-ball" as the cue ball.
 
 [Every ball is in the Billiard Room.]
 
@@ -52,9 +52,7 @@ A cue stick is in the Billiard Room. "A cue stick leans against the table." The 
 
 Chapter - Shooting
 
-Definition: A ball is sunk if the sunkenness of it is true.
-
-To sink (B - a ball): now the sunkenness of B is true.
+To sink (B - a ball): now B is sunken.
 
 Shooting it at is an action applying to two touchable things and requiring light. Understand "shoot [ball]" or "shoot at [ball]" or "shoot [ball] at [ball]" as shooting it at.
 
@@ -70,7 +68,7 @@ Check shooting it at when the second noun is not on the table: instead say "You 
 
 Carry out shooting it at when a random chance of 1 in 4 succeeds: say "You scratch, neatly pocketing [the noun]."; now the noun is in the return; rule succeeds.
 
-Carry out shooting it at when a random chance of 1 in 2 succeeds: say "You neatly drop [the second noun] in the [if a random chance of 1 in 3 succeeds]side[otherwise]corner[end if] pocket."; now the second noun is in the return; if the second noun is not sunk, increase the score by the mark of the second noun; sink the second noun; rule succeeds.
+Carry out shooting it at when a random chance of 1 in 2 succeeds: say "You neatly drop [the second noun] in the [if a random chance of 1 in 3 succeeds]side[otherwise]corner[end if] pocket."; now the second noun is in the return; if the second noun is not sunken, increase the score by the mark of the second noun; sink the second noun; rule succeeds.
 
 Carry out shooting it at: say "You don't have the angles quite right, and [the second noun] goes astray."
 

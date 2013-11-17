@@ -22,7 +22,7 @@ Chapter - Billiard Balls
 
 A color is a kind of value. The colors are red, white, blue, and green.
 
-A ball is a kind of thing. A ball has a color. A ball has a number called the mark. A ball can be sunken. It is usually not sunken. The description of it is usually "This [item described] is painted [color of the item described][if the mark of the item described is greater than 0], and labeled with a [mark of the item described] in a white circle[end if]."
+A ball is a kind of thing. A ball has a color. A ball has a number called the mark. A ball can be sunken. It is usually not sunken. The description of it is usually "This [item described] is painted [color of the item described][if mark of the item described is greater than 0], and labeled with a [mark of the item described] in a white circle[end if]."
 
 Section - Specific Balls
 
@@ -32,7 +32,7 @@ The two-ball is a blue ball. The mark is 2.
 
 The three-ball is a green ball. The mark is 3.
 
-The cue ball is a white ball. The mark is 0.
+The cue ball is a white ball. Understand "cue-ball" as the cue ball.
 
 [Every ball is in the Billiard Room.]
 
